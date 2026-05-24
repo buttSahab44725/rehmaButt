@@ -19,7 +19,7 @@
 - Software Engineering
 
 ## 🚀 Projects
-- Student Management System
+- Flight Management System
 - Calculator App
 - ATM Management System
      <img width="1096" height="753" alt="image" src="https://github.com/user-attachments/assets/65cf0d10-e363-4cb9-829c-371b1f6e1347" />
